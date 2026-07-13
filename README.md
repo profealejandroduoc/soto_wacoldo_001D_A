@@ -1,1 +1,3 @@
-# soto_wacoldo_001D_A
+# Wacoldo Soto
+## 12345678-9
+## w.soto@duocuc.cl
